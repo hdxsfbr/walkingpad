@@ -1,6 +1,6 @@
-# WalkingPad / PitPat BLE Controller
+# SupeRun WalkingPad / PitPat BLE Controller
 
-Minimal tooling for talking directly to some PitPat / WalkingPad treadmills over BLE, plus a small Android MVP app.
+Minimal tooling for talking directly to some SupeRun-branded PitPat / WalkingPad treadmills over BLE, plus a small Android MVP app.
 
 ## What's here
 
@@ -19,7 +19,7 @@ Minimal tooling for talking directly to some PitPat / WalkingPad treadmills over
 
 ## Device assumptions
 
-This was built against a PitPat / WalkingPad variant exposing:
+This was built against a SupeRun-branded PitPat / WalkingPad variant exposing:
 
 - Service: `0000ffff-0000-1000-8000-00805f9b34fb`
 - Write characteristic: `0000ff01-0000-1000-8000-00805f9b34fb`
