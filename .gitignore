@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Android / Gradle
+.gradle/
+local.properties
+**/build/
+*.apk
+
+# Reverse-engineering artifacts / captures
+*.log
+btsnoop*.log
+bugreport*.zip
+base.apk
+pitpat-src/
+jadx/
+jadx-*.zip
+FS/
+FS2/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+worklog.txt

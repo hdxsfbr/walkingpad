@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WalkingPad MVP</string>
+    <string name="device_target">Target: configure target name / address in WalkingPadProtocol.java</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="start">Start</string>
+    <string name="apply_speed">Set Speed</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_idle">Waiting for connection.</string>
+    <string name="speed_default">Speed: 1.0 mph</string>
+</resources>
